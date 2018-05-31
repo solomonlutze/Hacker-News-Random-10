@@ -1,0 +1,26 @@
+.App {
+  text-align: left;
+}
+
+.App .app-header {
+  font-size: 24px;
+  margin: 6px;
+}
+
+.App .Story {
+  padding: 10px;
+
+}
+
+.App .Story .title {
+  font-weight: bold;
+}
+
+.App .Story .label {
+  margin-left: 10px;
+  font-style: italic;
+}
+
+.App .Story .karma {
+  font-style: italic;
+}
